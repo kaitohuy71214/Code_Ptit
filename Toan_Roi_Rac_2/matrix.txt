@@ -1,0 +1,20 @@
+5
+Ma Tran Ke :
+0 1 0 1 0 
+1 0 1 0 1 
+0 1 0 0 1 
+1 0 0 0 0 
+0 1 1 0 0 
+DANH SACH CANH :
+Diem Dau -> Diem Cuoi
+    1           2
+    1           4
+    2           3
+    2           5
+    3           5
+Danh Sach Ke :
+ke(1) = {2; 4}
+ke(2) = {1; 3; 5}
+ke(3) = {2; 5}
+ke(4) = {1}
+ke(5) = {2; 3}
